@@ -49,5 +49,10 @@ go install github.com/projectdiscovery/nuclei/v3/cmd/nuclei@latest
 
 Usage :--
 
+https://github.com/TEAM-DH49/scanner.git
+cd scanner
+chmod +x HaxShadow.sh
+./HaxShadow.sh
+
 
 
